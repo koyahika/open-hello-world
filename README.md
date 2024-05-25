@@ -12,3 +12,4 @@
 - 注意点：Jupyter Notebookのノートブックファイル（.ipynb）は、そのままエクスプローラー（またはFinder）から、クリックやダブルクリックでは開けません。Jupyter Notebookを起動させてから開いてください。
   - 本書のスペースの関係で掲載できなかった[サンプルプログラム](https://github.com/oyo-k/book/tree/master/sample_answers)
 こんにちは
+いぇい
